@@ -28,8 +28,7 @@
 - **품질 보증:** Vitest와 React Testing Library를 활용한 단위 및 통합 테스트를 통해 코드의 안정성을 확보했습니다.
 
 ## 사용 방법
-
-[스크린 샷 또는 영상]
+https://youtu.be/ngT1ujPv0Zc
 
 ## 로컬 설치 방법
 
