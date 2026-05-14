@@ -4,6 +4,8 @@
 <h3>개인화 추천과 AI 기술을 결합한 스마트 레시피 플랫폼</h3>
 
 <a href="http://todayfridge.com">todayfridge.com</a>
+<a href="http://todayfridge.com">https://today-fridge-frontend-deploy.vercel.app/</a>
+
 
 <img src="img/image.png" alt="Today Fridge Preview" height="250" width="auto" />
 
