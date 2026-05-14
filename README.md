@@ -134,9 +134,9 @@
  - Top-5 Accuracy: 93.95%
 
 #관련 리포지토리
-<a href="https://github.com/FoggyCaligo/today_fridge_frontend">프론트엔드 리포지토리 : Next/React</a>
-<a href="https://github.com/FoggyCaligo/today_fridge_backend_1">백엔드1 리포지토리 : Spring Boot</a>
-<a href="https://github.com/FoggyCaligo/today_fridge_backend_2">백엔드2 리포지토리 : FastAPI</a>
+<a href="https://github.com/FoggyCaligo/today_fridge_frontend">프론트엔드 리포지토리 : Next/React</a><br>
+<a href="https://github.com/FoggyCaligo/today_fridge_backend_1">백엔드1 리포지토리 : Spring Boot</a><br>
+<a href="https://github.com/FoggyCaligo/today_fridge_backend_2">백엔드2 리포지토리 : FastAPI</a><br>
 
 
 
