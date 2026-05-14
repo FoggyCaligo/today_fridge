@@ -28,7 +28,7 @@
 - **품질 보증:** Vitest와 React Testing Library를 활용한 단위 및 통합 테스트를 통해 코드의 안정성을 확보했습니다.
 
 ## 사용 방법
-<a href="https://youtu.be/ngT1ujPv0Zc" target="_blank">
+<a href="https://youtu.be/qpsriEhVPIs" target="_blank">
   <img src="https://img.youtube.com/vi/ngT1ujPv0Zc/0.jpg" alt="오늘냉장고 시연영상">
 </a>
 
